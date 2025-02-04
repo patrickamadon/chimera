@@ -17,7 +17,7 @@ Output file name is "chimera_<original_basename>.<ext>"
 No additional Python libraries required (only tkinter, zipfile, etc. from the standard library)
 
 License
-This project is released under the MIT License (or whichever license you choose). See a LICENSE file for details.
+This project is released under the MIT License. See a LICENSE file for details.
 
 Author
 by Amadon 
